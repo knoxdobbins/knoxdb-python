@@ -62,7 +62,7 @@ db_query = knox.query(conn=conn, sql_string=sql_string, close_conn=True)
 
 ## Feedback
 
-Feel free to send me feedback or feature requests on my [Website](https://knox.framer.website). Feature requests are always welcome.
+Feel free to send me feedback or feature requests on my [Website](https://knoxdobbins.dev). Feature requests are always welcome.
 
 If there's anything you'd like to chat about, please feel free to email me at knox.dobbins@gmail.com!
 
